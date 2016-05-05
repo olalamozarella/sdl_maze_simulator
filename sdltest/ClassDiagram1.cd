@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IRobot">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IRobot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ISimulator">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ISimulator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeSimulator">
+    <Position X="2.5" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIEABAAAAAEAAkEwAAAQAACAAIEABoAAAEAACAAAQII=</HashCode>
+      <FileName>MazeSimulator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MouseV1">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MouseV1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Position">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAABAAAA=</HashCode>
+      <FileName>defines.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MazeAttributes">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAABAAAAAAACIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>defines.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Color">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAQABAAAAAAA=</HashCode>
+      <FileName>defines.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MazePlan">
+    <Position X="5.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIIMAAAAAwAAAAAggABAAAAAAAiAIABAIgAAAAAAAAA=</HashCode>
+      <FileName>MazePlan.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="CellType">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYCAAAAAAAIEAhABAAAQFAAAAAAAAAAAAIACIAA=</HashCode>
+      <FileName>defines.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
